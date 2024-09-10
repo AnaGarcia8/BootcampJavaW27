@@ -39,6 +39,7 @@ public class Main {
                 posMax = i;
             }
         }
+        //Mostrar los resultados
         System.out.println("La ciudad con la menor temperatura es: " + ciudades[posMin]);
         System.out.println("La ciudad con la mayor temperatura es: " + ciudades[posMax]);
 
